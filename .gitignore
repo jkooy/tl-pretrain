@@ -1,3 +1,5 @@
 flower_finetune
 Caltch_finetune
 tl_pretrain
+checkpoint_epoch_0200.pth.tar
+moco_v2_800ep_pretrain.pth.tar
